@@ -1,0 +1,21 @@
+{
+  "name": "node_concepts",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebAmorim/node_concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebAmorim/node_concepts/issues"
+  },
+  "homepage": "https://github.com/DebAmorim/node_concepts#readme"
+}
